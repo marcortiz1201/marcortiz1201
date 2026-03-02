@@ -1,4 +1,4 @@
-Hi 👋 My name is Marco Ortiz
+Hi my name is Marco Ortiz
 ============================
 
 Web Applications Developer
